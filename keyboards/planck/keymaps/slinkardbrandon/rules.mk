@@ -1,0 +1,4 @@
+TAP_DANCE_ENABLE=yes
+EXTRAKEY_ENABLE=yes
+
+SRC += muse.c
